@@ -1,7 +1,7 @@
 /*************************************
 Tekijä: Tomi Hamm
 Jakson numero: 2
-Jakson tehtävänumero: 1.1
+Jakson tehtävänumero: 3.4
 Päiväys: 22.10.2022
 *************************************/
 package tehtavan1;
